@@ -29,7 +29,7 @@ publishDate: "2020-04-23T00:00:00Z"
 slides:
 summary: 
 tags: []
-title: Tweeting Tsunami Influence and Early Warning in British Columbia
+title: Tweeting Tsunami ':' Influence and Early Warning in British Columbia
 url_code: ""
 url_pdf: ""
 url_slides: ""
