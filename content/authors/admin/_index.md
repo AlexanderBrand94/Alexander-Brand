@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Alexander Brand
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computational Social Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Bamberg
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cooperation in social networks and applying new methods to the social sciences
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+
+- Social Network Analysis
+- Agent-based Modelling
+- Recommender Systems
+- Natural Language Processing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MA in Sociology
+    institution: University of Bamberg
+    year: 2019
+  - course: BA in Sociology
+    institution: University of Bamberg
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -70,6 +69,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alexander Brand is a research and teaching assistant in the field of applied computer science at the University of Bamberg with a master's degree in sociology.
+His research focuses on applying computational methods for the studies of complex social systems, particularly social network analysis and agent-based modeling. 
+He presented part of his research on modeling temporal and semantic networks at the European Conference of Social Networks and the Historical Network Research Conference.”
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
