@@ -1,8 +1,8 @@
 ---
 abstract: 
 address:
-  city: 
-  country: 
+  city: Paris
+  country: France
   postcode: 
   region: 
   street: 
