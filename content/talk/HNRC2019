@@ -1,0 +1,39 @@
+---
+abstract: 
+address:
+  city: Brno
+  country: Czech Republic
+  postcode: 
+  region: 
+  street: 
+all_day: true
+authors: []
+date: "2018-09-12T13:00:00Z"
+date_end: "2018-09-12T00:00:00Z"
+event: Historical Network Research Conference 
+event_url: https://religionistika.phil.muni.cz/hnr2018/
+featured: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  focal_point: Right
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/georgecushen
+location: Masaryk University
+math: true
+projects:
+- internal-project
+publishDate: "2018-09-23T00:00:00Z"
+slides:
+summary: 
+tags: []
+title: State of the Union: Semantic Topic Network Structures in
+Historical Enunciative Practices
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
+
