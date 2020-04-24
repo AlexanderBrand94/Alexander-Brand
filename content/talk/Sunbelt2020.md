@@ -25,7 +25,7 @@ location:
 math: true
 projects:
 - internal-project
-publishDate: "2020-06-02T00:00:00Z"
+publishDate: "2020-04-23T00:00:00Z"
 slides:
 summary: 
 tags: []
