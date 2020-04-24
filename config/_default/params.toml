@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "alexander.brand@uni-bamberg.de"
 phone = "+49 951 863-3944"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+address = "An der Weberei 5 Room 01.36, University of Bamberg, 96047 Bamberg, Germany"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
