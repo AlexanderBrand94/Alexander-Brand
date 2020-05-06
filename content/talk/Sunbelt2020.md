@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: 
-location: 
+location: Paris
 math: true
 projects:
 - internal-project
