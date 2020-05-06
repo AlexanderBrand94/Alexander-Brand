@@ -70,6 +70,6 @@ user_groups:
 ---
 
 Alexander Brand is a research and teaching assistant in the field of applied computer science at the University of Bamberg with a master's degree in sociology.
-His research focuses on applying computational methods for the studies of complex social systems, particularly social network analysis and agent-based modeling. 
+His research focuses on applying computational and statistical methods for the studies of complex social systems, particularly social network analysis and agent-based modeling. 
 He presented part of his research on modeling temporal and semantic networks at the European Conference of Social Networks and the Historical Network Research Conference.
 
