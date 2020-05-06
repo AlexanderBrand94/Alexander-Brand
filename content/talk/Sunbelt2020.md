@@ -10,7 +10,7 @@ all_day: true
 authors: []
 date: "2020-06-02T13:00:00Z"
 date_end: "2020-09-07T00:00:00Z"
-event: Sunbelt  
+event: Sunbelt
 event_url: 
 featured: false
 image:
@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: 
-location: Paris
+location: Paris (expected online)
 math: true
 projects:
 - internal-project
