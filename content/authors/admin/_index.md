@@ -14,8 +14,8 @@ role: Computational Social Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: University of Bamberg
-  url: "https://www.uni-bamberg.de/hci/team/alexander-brand/"
+- name: Stiftung Universität Hildesheim
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cooperation in social networks and applying new methods to the social sciences
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:alexander.brand@uni-bamberg.de".
+  link: '#contact'  # For a direct email link, use "mailto:alexander.brand@uni-hildesheim.de".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AlexanderNBrand
@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-Alexander Brand is a research and teaching assistant in the field of applied computer science at the University of Bamberg with a master's degree in sociology.
+Alexander Brand is a research and teaching assistant in the field of political science at the University of Hildesheim with a master's degree in sociology.
 His research focuses on applying computational and statistical methods for the studies of complex social systems, particularly social network analysis and agent-based modeling. 
 He presented part of his research on modeling temporal and semantic networks at the European Conference of Social Networks and the Historical Network Research Conference.
 
