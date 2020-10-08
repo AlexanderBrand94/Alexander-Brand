@@ -1,7 +1,7 @@
 ---
 abstract: 
 address:
-  city: Paris
+  city: Paris (Onlien Conference)
   country: France
   postcode: 
   region: 
@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: 
-location: Paris (expected online)
+location: Paris
 math: true
 projects:
 - internal-project
