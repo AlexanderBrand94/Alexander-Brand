@@ -1,7 +1,7 @@
 ---
 abstract: 
 address:
-  city: Paris (Onlien Conference)
+  city: Paris (Online Conference)
   country: France
   postcode: 
   region: 
