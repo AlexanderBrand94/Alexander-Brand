@@ -29,7 +29,7 @@ publishDate: "2020-09-29T00:00:00Z"
 slides:
 summary: 
 tags: []
-title: Collective sense-making patterns in k-partite Networks: The case of Female Genital Mutilation
+title: Collective sense-making patterns in k-partite Networks | The case of Female Genital Mutilation
 url_code: ""
 url_pdf: ""
 url_slides: ""
