@@ -10,7 +10,7 @@ all_day: true
 authors: []
 date: "2020-09-29T13:00:00Z"
 date_end: "2020-09-29T00:00:00Z"
-event: Content Meets Structure - Integrating Different Perspectives on Social Networks
+event: Content Meets Structure | Integrating Different Perspectives on Social Networks
 event_url: 
 featured: false
 image:
