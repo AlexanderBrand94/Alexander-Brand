@@ -15,7 +15,7 @@ role: Computational Social Scientist
 # Organizations/Affiliations
 organizations:
 - name: University of Hildesheim
-  url: ""
+  url: https://www.uni-hildesheim.de/fb1/institute/institut-fuer-sozialwissenschaften/politikwissenschaft/mitglieder/wissenschaftliche-angestellte/alexander-brand/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cooperation in social networks and applying new methods to the social sciences
