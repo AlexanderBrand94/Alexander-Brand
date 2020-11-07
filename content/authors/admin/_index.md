@@ -14,7 +14,7 @@ role: Computational Social Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stiftung Universität Hildesheim
+- name: University of Hildesheim
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
