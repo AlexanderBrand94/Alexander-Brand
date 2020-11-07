@@ -21,7 +21,7 @@ links:
   icon_pack: fab
   name: Follow
   url: 
-location: Paris
+location: Paris (Online Conference)
 math: true
 projects:
 - internal-project
