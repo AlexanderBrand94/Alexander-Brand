@@ -1,16 +1,16 @@
 ---
 abstract: 
 address:
-  city: Heidelberg
-  country: Germany
+  city: Ljubljana
+  country: Slovenija
   postcode: 
   region: 
   street: 
 all_day: true
 authors: []
-date: "2020-09-29T13:00:00Z"
-date_end: "2020-09-29T00:00:00Z"
-event: Content Meets Structure | Integrating Different Perspectives on Social Networks
+date: "2021-04-14T13:00:00Z"
+date_end: "2021-04-14T00:00:00Z"
+event: 1st International Workshop on Knowledge Graphs for Online Discourse Analysis (KnOD 2021) | Collocated with The Web Conference 2021
 event_url: 
 featured: false
 image:
@@ -21,15 +21,15 @@ links:
   icon_pack: fab
   name: Follow
   url: 
-location: Akademie der Wissenschaften 
+location: Online Conference 
 math: true
 projects:
 - internal-project
-publishDate: "2020-09-29T00:00:00Z"
+publishDate: "2021-04-14T00:00:00Z"
 slides:
 summary: 
 tags: []
-title: Collective sense-making patterns in k-partite Networks | The case of Female Genital Mutilation
+title: Using heterogenous information networks for integrative discourse mapping
 url_code: ""
 url_pdf: ""
 url_slides: ""
