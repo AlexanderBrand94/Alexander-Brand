@@ -29,7 +29,7 @@ publishDate: "2020-04-23T00:00:00Z"
 slides:
 summary: 
 tags: []
-title: EPINetz: Exploration of Political Information Networks
+title: EPINetz Exploration of Political Information Networks
 url_code: ""
 url_pdf: ""
 url_slides: ""
